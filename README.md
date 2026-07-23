@@ -11,7 +11,6 @@ Bu proje, **3. Sınıf Bilgisayar Mühendisliği** müfredatında yer alan ağ p
 
 ## 📸 Ekran Görüntüsü & Arayüz
 
-![Dashboard Ekran Görüntüsü] 
 ### 1. Tarama ve Tespit Edilen Açık Portlar
 <img width="1306" height="600" alt="s" src="https://github.com/user-attachments/assets/62aa14c4-1612-4fba-9225-fa28ac8893e9" />
 
