@@ -24,8 +24,11 @@ Bu proje, **3. Sınıf Bilgisayar Mühendisliği** müfredatında yer alan ağ p
 ## 🚀 Öne Çıkan Mühendislik Yaklaşımları & Özellikler
 
 * **⚡ Asenkron Tarama Motoru (`asyncio`):** Taramalardaki I/O (Giriş/Çıkış) bekleme sürelerini ortadan kaldırmak için asenkron mimari kurulmuştur. Sistem kaynaklarını ve ağ trafiğini korumak amacıyla `Semaphore(50)` sınırlandırması uygulanmıştır. Bu sayede port taramaları **1.5 saniye** gibi rekor sürelerde tamamlanır.
+  
 * **🔍 Banner Grabbing (Servis Tespiti):** Tespit edilen açık portlara TCP/HTTP seviyesinde soket bağlantıları kurularak servislerin versiyon bilgileri (Örn: `Apache/2.4.7 (Ubuntu)`) regex yapılarıyla ayrıştırılır.
+  
 * **🗄️ İlişkisel Veri Yönetimi (`SQLite`):** Taranan IP adresleri, bulunan açık portlar, servis versiyonları ve zaman damgaları `scans` ve `scan_results` tabloları arasında `Foreign Key` ilişkisi kurularak saklanır.
+  
 * **📊 İnteraktif Görsel Dashboard:** `Streamlit` ve `Plotly` kullanılarak tarama sonuçlarının anlık takip edilebildiği, durum oranlarının (% Açık/Kapalı) pasta grafiklerle görselleştirildiği ve geçmiş taramaların sorgulanabildiği bir panelle sunulmuştur.
 
 ---
