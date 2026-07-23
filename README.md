@@ -11,10 +11,13 @@ Bu proje, **3. Sınıf Bilgisayar Mühendisliği** müfredatında yer alan ağ p
 
 ## 📸 Ekran Görüntüsü & Arayüz
 
-![Dashboard Ekran Görüntüsü] <p float="left">
-  <img src="s.png" width="48%" />
-  <img src="s2.png" width="48%" />
-</p>
+![Dashboard Ekran Görüntüsü] 
+### 1. Tarama ve Tespit Edilen Açık Portlar
+<img width="1306" height="600" alt="s" src="https://github.com/user-attachments/assets/62aa14c4-1612-4fba-9225-fa28ac8893e9" />
+
+
+### 2. Port Durum Dağılımı ve Grafik
+<img width="1307" height="597" alt="s2" src="https://github.com/user-attachments/assets/179ae008-2af7-46e8-ade0-e831c52d701f" />
 
 ---
 
