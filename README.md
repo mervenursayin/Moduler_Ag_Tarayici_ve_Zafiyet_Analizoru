@@ -11,8 +11,10 @@ Bu proje, **3. Sınıf Bilgisayar Mühendisliği** müfredatında yer alan ağ p
 
 ## 📸 Ekran Görüntüsü & Arayüz
 
-![Dashboard Ekran Görüntüsü] src="https://raw.githubusercontent.com/mervenursayin/Moduler_Ag_Tarayici_ve_Zafiyet_Analizoru/main/s.png"
-*(Arayüz ekran görüntünüzü repoya `preview.png` ismiyle eklediğinizde otomatik belirecektir)*
+![Dashboard Ekran Görüntüsü] <p float="left">
+  <img src="s.png" width="48%" />
+  <img src="s2.png" width="48%" />
+</p>
 
 ---
 
